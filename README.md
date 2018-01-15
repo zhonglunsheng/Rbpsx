@@ -18,6 +18,3 @@ Easyui基于角色的权限系统 (本系统采用技术：EasyUI+Jsp+Servlet+Jd
 
 #### 权限管理界面
 ![image](https://github.com/zhonglunsheng/Rbpsx/blob/master/images/8.png)
-
-
-##### 本系统学习视频来自于java1234
